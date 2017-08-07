@@ -1,0 +1,16 @@
+[
+{
+  "modid": "saltfishtweaks",
+  "name": "SaltFishTweaks",
+  "description": "SaltFishTweaks.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Seraph_JACK"],
+  "credits": "Seraph_JACK",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

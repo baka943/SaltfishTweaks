@@ -1,0 +1,5 @@
+event.saltfishtweaks.chatmsg=因为咸鱼的存在，这个头颅被卡没了。
+item.salty_fish_bottle.name=瓶装咸鱼
+item.salty_fish_bottle.tooltip=严格按照咸鱼头像配色而成。
+tile.block_salty_fish.name=咸鱼方块
+tile.block_salty_fish.tooltip=连凋零也奈何不了咸鱼。
