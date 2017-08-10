@@ -1,5 +1,5 @@
 event.saltfishtweaks.chatmsg=Because of salted fish,this skull has been destroyed.
 item.salty_fish_bottle.name=Bottle of Salted Fish
-item.salty_fish_bottle.tooltip=Right clicking with an empty Glass Bottle while in the Nether will capture some of that air.yuanjie000's breath.
+item.salty_fish_bottle.tooltip=Right clicking with an empty Glass Bottle while in the Nether will capture some of that air.§l§myuanjie000's breath.
 tile.block_salty_fish.name=Salted Fish Block
 tile.block_salty_fish.tooltip=Even the Wither Boss has no idea how to deal with yuanjie000.
